@@ -8,3 +8,23 @@
     background-repeat: no-repeat;
     background-size: cover;
 }
+
+fieldset:has(input:focus) {
+    border-color: #3078FF;
+    border-width: 3px;
+    font-size: 1.05em;
+    animation-duration: 2;
+    
+}
+
+fieldset:has(input:focus) legend {
+    color:#3078FF;
+    font-size: 1.05em;
+    transition-timing-function: linear;
+}
+
+
+
+
+
+
