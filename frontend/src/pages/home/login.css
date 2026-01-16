@@ -1,0 +1,10 @@
+/* FOR DEBUGGING ONLY*/
+* {
+   
+}
+
+#right-box {
+    background-image: url('../../assets/image/login-bg.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
